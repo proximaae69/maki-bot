@@ -1,4 +1,5 @@
-# Maki Bot
+## ⚖️ Legal Information
+[Terms of Service](#terms-of-service) | [Privacy Policy](#privacy-policy)
 
 # Terms of Service for Maki#8120
 
