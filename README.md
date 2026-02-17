@@ -1,6 +1,6 @@
 # Maki Bot
 
-**Terms of Service for Maki#8120**
+# Terms of Service for Maki#8120
 
 1. Acceptance of Terms
 By inviting Maki (the "Bot") to your server or using its features, you agree to these Terms and Discord’s official [Terms of Service](https://discord.com/terms).
@@ -22,7 +22,7 @@ The Bot is provided "as is." We are not responsible for any data loss, accidenta
 🛡️ Maki's Privacy Policy Template
 Discord is very strict about this. You must tell them exactly what you save.
 
-Privacy Policy for Maki#8120
+# Privacy Policy for Maki#8120
 1. Data Collection
 Maki collects and stores limited data to function, including:
 
