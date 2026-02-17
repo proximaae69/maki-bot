@@ -1,3 +1,5 @@
+# Maki Bot
+
 1. Acceptance of Terms
 By inviting Maki (the "Bot") to your server or using its features, you agree to these Terms and Discord’s official [Terms of Service](https://discord.com/terms).
 
